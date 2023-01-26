@@ -42,7 +42,7 @@
 ### 🤝🏻 Notes
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeaphones&layout=compact&theme=vision-friendly-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeaphones&layout=compact&theme=vision-friendly-dark">
 </div>
 
 <div id="badges" align="center">
