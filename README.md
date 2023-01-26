@@ -49,11 +49,11 @@
   <a href="https://www.linkedin.com/in/yohan-velay/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="http://yohanvelay.nybtech.fr/">
+    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=React&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="mailto:yohan2003@free.fr">
+    <img src="https://img.shields.io/badge/Email-Yohan2003@free.fr-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 <div id="views" align="center">
